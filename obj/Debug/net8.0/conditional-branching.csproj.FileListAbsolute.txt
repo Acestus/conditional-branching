@@ -1,0 +1,14 @@
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\bin\Debug\net8.0\conditional-branching.exe
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\bin\Debug\net8.0\conditional-branching.deps.json
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\bin\Debug\net8.0\conditional-branching.runtimeconfig.json
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\bin\Debug\net8.0\conditional-branching.dll
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\bin\Debug\net8.0\conditional-branching.pdb
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\conditional-branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\conditional-branching.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\conditional-branching.AssemblyInfo.cs
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\conditional-branching.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\conditional-branching.dll
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\refint\conditional-branching.dll
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\conditional-branching.pdb
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\conditional-branching.genruntimeconfig.cache
+C:\Users\wbalconi\git\free-code-camp\conditional-branching\obj\Debug\net8.0\ref\conditional-branching.dll
